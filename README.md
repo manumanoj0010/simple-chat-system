@@ -22,4 +22,4 @@ xampp or wamp(for running php scripts) also known as local server Any text edito
 
 **Step 8: ** Now you can either import the **sql file** in the database or you can manually create tables and fill the table. I have included a sql file so you can directly import it.
 
-**Step 8**: Open your browser and type localhost/loginsystem
+**Step 8**: Open your browser and type localhost/chatsystem
