@@ -1,5 +1,7 @@
 This is a simple chat system build using basic HTML, CSS ,PHP, SQL and a bit AJAX. 
 
+![](https://raw.githubusercontent.com/manumanoj0010/simple-chat-system/master/images/screenshot.png)
+
 **Softwares required:**
 xampp or wamp(for running php scripts) also known as local server Any text editor example (notepad,notepad++, sublime Text(recommmended))
 
